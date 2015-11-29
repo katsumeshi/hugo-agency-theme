@@ -792,7 +792,8 @@ ul.social-buttons li a:active {
     margin: 20px 0 30px;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
-    font-style: italic;
+    /* font-weight: bold; */
+    /* font-style: italic; */
 }
 
 .portfolio-modal .modal-content ul.list-inline {
